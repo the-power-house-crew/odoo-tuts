@@ -15,10 +15,6 @@
     "installable": True,
     "depends": ["base", "web"],
     "data": [],
-    "assets": {
-        "web.assets_backend": [
-            "awesome_clicker/static/src/**/*",
-        ],
-    },
+    "assets": {},
     "license": "AGPL-3",
 }
